@@ -1,3 +1,13 @@
+# Description 
+Used this project to learn about nextJS and set up a testing environment in nextjs for writing efficient tests. 
+
+## Reference 
+[NextJS Tutorial](https://youtu.be/KjY94sAKLlw)
+[NextJS Tests Tutorial](https://youtu.be/mJn0B7mXmDI)
+
+[NextJS Api Test Tutorial](https://seanconnolly.dev/unit-testing-nextjs-api-routes)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
