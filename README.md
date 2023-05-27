@@ -7,7 +7,7 @@ Used this project to learn about nextJS and set up a testing environment in next
 
 [NextJS Api Test Tutorial](https://seanconnolly.dev/unit-testing-nextjs-api-routes)
 
-
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
